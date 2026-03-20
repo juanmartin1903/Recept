@@ -52,3 +52,44 @@ Låt bullarna svalna på galler under bakduk.
 - Tillsätt lite pastavatten om såsen blir för tjock.
 - Smaka av med mer svartpeppar och servera direkt.
 
+
+
+
+
+
+# Recept
+| Recept | Skapare | Tid |
+|:-------|--------:|:---:|
+| Jollof | Edwin | 1hr  |
+
+# För kycklingmarinaden:
+
+1 kg kycklingdelar(drumsticks)
+2msk vegetabilisk olja
+1 tsk salt
+½ tsk svartpeppar
+1 tsk paprikapulver
+1 tsk vitlökspulver
+1 tsk lökpulver
+½ tsk cayennepeppar (valfritt, för extra hetta)
+
+# För Jollof-såsen:
+
+4 stora tomater (eller 1 burk hackade tomater)
+1 röd paprika
+1 scotch bonnet eller chili (valfritt, justera efter smak)
+1 medelstor lök, hackad
+3 msk tomatpuré
+½ tsk timjan
+1 tsk curry
+1 lagerblad
+½ dl vegetabilisk olja
+Salt och peppar efter smak
+
+# Förbredning:
+
+Marinera kycklingen med kryddor och olja minst 1 timme.
+Mixa tomater, paprika och chili, fräs lök, tillsätt tomatpuré och mixen, kryddor, och sjud 15 min.
+Stek kycklingen gyllene och genomstekt.
+Blanda kycklingen med såsen och låt sjuda 5–10 min.
+Servera med ris, plantains eller grönsaker.

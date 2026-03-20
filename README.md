@@ -34,15 +34,15 @@ Låt bullarna svalna på galler under bakduk.
 |:-------|--------:|:---:|
 | Carbonara | Albin Burman | 24 min |
 
-🍝 Carbonara (klassisk italiensk stil)
-- Ingredienser (4 portioner)
+# 🍝 Carbonara (klassisk italiensk stil)
+- ## Ingredienser (4 portioner)
 - 350 g spaghetti
 - 150 g pancetta eller bacon
 - 2 ägg
 - 1 dl riven parmesan
 - Salt
 - Svartpeppar
-- Gör så här
+- ## Gör så här
 - Koka pastan i saltat vatten tills den är al dente.
 - Skär pancettan/bacon i små bitar och stek den tills den blir knaprig.
 - Vispa ihop ägg och parmesan i en skål. Krydda med svartpeppar.

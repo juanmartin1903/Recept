@@ -14,7 +14,7 @@
 |:-------|--------:|:---:|
 | Carbonara | Albin Burman | 24 min |
 
-🍝 Enkel Carbonara (klassisk italiensk stil)
+🍝 Carbonara (klassisk italiensk stil)
 Ingredienser (4 portioner)
 - 400 g spaghetti
 - 150 g pancetta eller bacon

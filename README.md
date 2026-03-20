@@ -86,7 +86,7 @@ Låt bullarna svalna på galler under bakduk.
 ½ dl vegetabilisk olja
 Salt och peppar efter smak
 
-# Förbredning:
+# Förberendning:
 
 Marinera kycklingen med kryddor och olja minst 1 timme.
 Mixa tomater, paprika och chili, fräs lök, tillsätt tomatpuré och mixen, kryddor, och sjud 15 min.

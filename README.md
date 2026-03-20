@@ -1,9 +1,29 @@
 # Recept
 | Recept | Skapare | Tid |
 |:-------|--------:|:---:|
-| Pannkakor | Oskar Ray-Frayssinet | 30 min |
+| Lussebullar | Juan | 20 min |
 
+# Ingredienser
+* 50 g färsk jäst
+* 175 g smör eller margarin
+* 2 påsar saffran à 1/2 g
+* 2 dl socker
+* 5 dl mjölk
+* 1/2 tsk salt
+* ca 1 1/2 l vetemjöl (1 1/2 l motsvarar 900 g)
 
+# Förberendning
+Smula ner jästen i degbunken. Se instruktionsfilm på hur du bakar dina lussebullar.
+Smält matfettet.
+Stöt saffranet med lite av sockret i en mortel. Rör ner saffranet i det smälta matfettet. Tillsätt mjölken och ljumma degspadet till ca 37°C.
+Rör ut jästen i lite av degspadet. Tillsätt resten av degspadet, socker och salt. Arbeta i nästan allt vetemjöl och arbeta degen ca 5 minuter i maskin eller 10 minuter för hand. Strö lite mjöl över degen. Låt den jäsa under bakduk 30- 45 minuter.
+Ta upp degen på mjölad arbetsbänk. Knåda ev. i resten av mjölet.
+Baka ut lussekatter/julkusar, flätor eller längder. Lägg bröden på plåtar med bakplåtspapper.
+Låt jäsa under bakduk 30-45 minuter.
+Sätt ugnen på 200°C, över- och undervärme.
+Pensling och garnering: Pensla med uppvispat ägg och tryck i russin.
+Grädda bullarna mitt i ugnen 8-10 minuter och längder och flätor i nedre delen av ugnen 15-20 minuter.
+Låt bullarna svalna på galler under bakduk.
 
 
 

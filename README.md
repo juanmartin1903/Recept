@@ -12,7 +12,7 @@
 
 | Recept | Skapare | Tid |
 |:-------|--------:|:---:|
-| Carbonara | Albin Burman | 25 min |
+| Carbonara | Albin Burman | 24 min |
 
 🍝 Enkel Carbonara (klassisk italiensk stil)
 Ingredienser (4 portioner)

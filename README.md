@@ -1,2 +1,15 @@
 # Recept
-liten rubrik
+| Recept | Skapare | Tid |
+|:-------|--------:|:---:|
+| Pannkakor | Oskar Ray-Frayssinet | 30 min |
+
+
+
+
+
+
+
+
+| Recept | Skapare | Tid |
+|:-------|--------:|:---:|
+| Pannkakor | Oskar Ray-Frayssinet | 30 min |
